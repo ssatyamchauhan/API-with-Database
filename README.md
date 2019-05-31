@@ -1,6 +1,6 @@
 <h1 align="center">Simple Api With Database</h1>
 
-Implemented a simple Api with database using *ExpressJs* and Sqlite3. Performed CRUD operation in which used POST, PUT and GET method of express.
+Implemented a simple Api with database using *ExpressJs* and Sqlite3. Performed CRUD operation in which used POST, PUT, GET and DELETE method of express.
 
 # ExpressJs
 
